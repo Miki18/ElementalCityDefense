@@ -1,6 +1,6 @@
 # Elemental City Defense
 
-**Elemental City Defense** is a game made by one person. You goal is to stop monsters before they enter to city. You can buy towers and place them in specyfic places.
+**Elemental City Defense** (version 0.1.0) is a game made by one person. You goal is to stop monsters before they enter to city. You can buy towers and place them in specyfic places.
 
 # Towers
 
