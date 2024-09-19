@@ -51,5 +51,5 @@ Gold can be earned by:
 Every elemental (except ents) has resistance for specific element, but other is their weakness. Player can give his towers element power (when you buy a new tower, it has neutral element). Each tower can have only one element and you can't change it later. Therefore you need to place towers with right element there, where this element is needed.
 Walls can't have element power.
 
-Game was made with UE5.4.3
+Game was made with UE5.4.3 / UE5.4.4
 All models was made in blender.
